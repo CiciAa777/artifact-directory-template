@@ -1,5 +1,17 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Addressing Voter Turnout Disparities
+through Data-Driven Resource Allocation>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Voter turnout disparities persist across racial and socioeconomic groups, lim-
+iting fair democratic participation. Despite efforts to increase overall voter
+engagement, inequities in resource allocation continue to disproportionately
+affect underserved communities. This project addresses the challenge by
+leveraging Structural Causal Models (SCMs) and Mixed Integer Programming
+(MIP) to optimize polling station placement in Georgia, with the dual objec-
+tives of maximizing overall turnout and reducing racial disparities. By iden-
+tifying key causal relationships and integrating fairness constraints, our ap-
+proach ensures that additional resources are allocated to communities with
+the greatest need. Using publicly available election data and census demo-
+graphics, we develop an intervention strategy that quantifies the impact of
+polling station adjustments on turnout rates.>
